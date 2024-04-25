@@ -1,0 +1,131 @@
+<<<<<<< HEAD
+# Created by https://www.gitignore.io/api/psoccreator
+
+### PSoCCreator ###
+# Project Settings
+*.39345*
+*.simon*
+*.miri1*
+*.cyprj.*
+
+
+# Generated Assets and Resources
+Docs/
+Release/
+Export/
+Backup/
+*/codegentemp
+*/CortexM3
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+.*DS_Store
+
+
+# End of https://www.gitignore.io/api/psoccreator
+
+Debug/
+
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Debug/
+Interrupt_FIFO.cydsn/
+Release/
+Export/
+*/codegentemp
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
+*.sdc
+
+*.txt
+*.docx
+
+*.ctl
+*.pci
+*.pco
+*.plc_log
+*.sdc
+*.sdf
+*.vh2
+=======
+# Created by https://www.gitignore.io/api/psoccreator
+
+### PSoCCreator ###
+# Project Settings
+*.39345*
+*.simon*
+*.miri1*
+*.cyprj.*
+*.cydsn.*
+
+
+# Generated Assets and Resources
+Docs/
+Release/
+Export/
+Backup/
+*/codegentemp
+*/CortexM3
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+.*DS_Store
+
+
+# End of https://www.gitignore.io/api/psoccreator
+
+Debug/
+
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+*.cydsn.*
+
+# Generated Assets and Resources
+Debug/
+Interrupt_FIFO.cydsn/
+Release/
+Export/
+*/codegentemp
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
+*.sdc
+
+*.txt
+*.docx
+
+*.ctl
+*.pci
+*.pco
+*.plc_log
+*.sdc
+*.sdf
+*.vh2
+>>>>>>> GUI
