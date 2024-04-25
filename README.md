@@ -21,7 +21,7 @@ The main objectives of this system are:
 
 - Acquire data from the accelerometer using built-in FIFO to reduce the load of the CPU.
 - Process and calibrate the raw data in order to obtain steps, calories, distance and speed.
-- Provide a GUI (Graphical User Interface) where data can be displayed in real-time.
+- Provide a Graphical-User-Interface (GUI) where data can be displayed in real-time.
 - Add some features to GUI and Hardware in order to make it more interactive and customizable.
 
 ![Semplice schematico del funzionamento](https://github.com/ltebs-polimi/AY2223_II_Project-5/blob/main/Altro/foto_project.png)
